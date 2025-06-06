@@ -6,7 +6,7 @@ ChAMP package is designed for conduct DNA methylation array analysis, providing 
 
 More information could be find in [Bioconductor page](https://bioconductor.org/packages/release/bioc/html/ChAMP.html). Also we provided a more detailed guide in the [HTML vignette](https://bioconductor.org/packages/release/bioc/vignettes/ChAMP/inst/doc/ChAMP.html).
 
-Currently, ChAMP package is maintained by [YuanTian1991](https://github.com/YuanTian1991).This version of the package is currently maintained by [Eliza Kishan](https://github.com/StarlightAbove), and can be contacted at eliza.kishan[at]mail.mcgill.ca. Please do not email the original authors if this fork is being used.
+Currently, ChAMP package is maintained by [YuanTian1991](https://github.com/YuanTian1991). This version of the package is currently maintained by [Eliza Kishan](https://github.com/StarlightAbove), and can be contacted at eliza.kishan[at]mail.mcgill.ca. Please do not email the original authors if this fork is being used.
 
 Install Code:
 
