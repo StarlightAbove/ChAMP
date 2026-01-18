@@ -16,7 +16,3 @@ R CMD INSTALL ChAMP
 ```
 
 Current latest version: `2.29.1`, which support EPICv2, but it must be used along with [ChAMPdata >= 2.23.1](https://github.com/YuanTian1991/ChAMPdata)
-
-# Warning
-This is an experimental package version built for internal use at the Przybyl Lab. This version is incredibly unstable and only used to debug and develop fixes for frequent errors within the package observed in more recent versions of R. Using this code with its modifications is HIGHLY unlikely to work on all machines and has not been experimentally tested yet. Download at your own risk. The Bioconductor version is still the recommended version. 
-
